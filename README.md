@@ -5,3 +5,5 @@ In our first events-related task, you need to create a simple event handler that
 The HTML should not be changed; just the JavaScript.
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Events#events_1
+
+Live web: https://gitthuma.github.io/events-1/
